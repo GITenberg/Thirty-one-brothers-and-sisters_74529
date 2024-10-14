@@ -1,0 +1,33 @@
+_repo: Thirty-one-brothers-and-sisters_74529
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mars, W. T.
+    gutenberg_agent_id: '57539'
+    url: http://www.gutenberg.org/2009/agents/57539
+creator:
+  author:
+    agent_name: Mirsky, Reba Paeff
+    gutenberg_agent_id: '57538'
+    url: http://www.gutenberg.org/2009/agents/57538
+description: ''
+gutenberg_issued: '2024-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74529'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b4099037
+pgterms:marc905: 20220307070426mirsky
+pgterms:marc906: '1952'
+pgterms:marc907: US
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aChicago :$bWilcox and Follett, $c1952.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thirty-one brothers and sisters
+url: http://www.gutenberg.org/ebooks/74529
