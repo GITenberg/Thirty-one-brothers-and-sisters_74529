@@ -5,12 +5,17 @@ contributor:
     agent_name: Mars, W. T.
     gutenberg_agent_id: '57539'
     url: http://www.gutenberg.org/2009/agents/57539
+covers:
+- cover_type: archival
+  image_path: 74529-h/images/cover.jpg
 creator:
   author:
     agent_name: Mirsky, Reba Paeff
     gutenberg_agent_id: '57538'
     url: http://www.gutenberg.org/2009/agents/57538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74529#Thirty-one-brothers-and-sisters
 gutenberg_issued: '2024-10-06'
 gutenberg_type: Text
 identifiers:
